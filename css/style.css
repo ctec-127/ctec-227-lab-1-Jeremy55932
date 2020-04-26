@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+a:link {
+  text-decoration: none;
+}
+body {
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  border-style: double;
+  display: flex;
+  /* flex-direction: column; */
+}
+
+header ul {
+}
+
+header ul li a {
+  /* margin-left: 10px; */
+  /* font-size: 1rem; */
+}
+
+header ul li {
+  list-style: none;
+}
